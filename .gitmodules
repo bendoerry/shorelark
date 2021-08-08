@@ -7,3 +7,6 @@
 [submodule "libs/simulation"]
 	path = libs/simulation
 	url = git@github.com:bendoerry/shorelark-simulation
+[submodule "libs/simulation-wasm"]
+	path = libs/simulation-wasm
+	url = git@github.com:bendoerry/shorelark-simulation-wasm

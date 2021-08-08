@@ -3,4 +3,5 @@ members = [
   "libs/genetic-algorithm",
   "libs/neural-network",
   "libs/simulation",
+  "libs/simulation-wasm",
 ]
