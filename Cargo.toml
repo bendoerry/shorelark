@@ -1,4 +1,5 @@
 [workspace]
 members = [
   "libs/genetic-algorithm",
+  "libs/neural-network",
 ]

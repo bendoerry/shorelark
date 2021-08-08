@@ -1,3 +1,6 @@
 [submodule "libs/genetic-algorithm"]
 	path = libs/genetic-algorithm
 	url = git@github.com:bendoerry/shorelark-genetic-algorithm
+[submodule "libs/neural-network"]
+	path = libs/neural-network
+	url = git@github.com:bendoerry/shorelark-neural-network
