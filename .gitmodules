@@ -1,0 +1,3 @@
+[submodule "libs/genetic-algorithm"]
+	path = libs/genetic-algorithm
+	url = git@github.com:bendoerry/shorelark-genetic-algorithm
