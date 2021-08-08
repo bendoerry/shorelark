@@ -4,3 +4,6 @@
 [submodule "libs/neural-network"]
 	path = libs/neural-network
 	url = git@github.com:bendoerry/shorelark-neural-network
+[submodule "libs/simulation"]
+	path = libs/simulation
+	url = git@github.com:bendoerry/shorelark-simulation
